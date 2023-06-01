@@ -1,0 +1,16 @@
+
+
+.App {
+  text-align: center;
+}
+
+.ligth{
+  background-color: white;
+  color: black;
+  height: 100vh;
+
+}
+.dark{
+  background-color: black;
+  color:  white;
+}
